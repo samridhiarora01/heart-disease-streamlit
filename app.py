@@ -13,9 +13,8 @@ def load_css():
     <style>
 
     .stApp {
-        background-image: url('https://images.unsplash.com/photo-1580281658629-82e140f7ecf8?auto=format&fit=crop&w=1400&q=80');
+       background-image: url("assets/bg/bg.jpg");
         background-size: cover;
-        background-attachment: fixed;
     }
 
     .card {
