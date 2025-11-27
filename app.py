@@ -13,7 +13,7 @@ def load_css():
     <style>
 
     .stApp {
-       background-image: url("assets/bg/bg.jpg");
+       background-image: url("assets/bg.jpg");
         background-size: cover;
     }
 
